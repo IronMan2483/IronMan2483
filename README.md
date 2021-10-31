@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Katrin (❤️ MCU). 
+👋 Hi, I’m Katrin (❤️ MCU). 
 
 I’m a Data Science student (09/2021-12/2021) at neuefische.
 
@@ -21,7 +21,7 @@ I am a traveller 🌎🌍🌏 and am crazy about snorkeling with 🐢🐠🐬 - 
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/katrin-mulinski-81ab5622/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/katrin-mulinski-81ab5622/" height="30" width="40" /></a>
 <a href="https://kaggle.com/ironman2483" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ironman2483" height="30" width="40" /></a>
-<a href="https://zindi.africa/users/IronMan2483" target="blank"><img align="center" src="https://www.seekpng.com/png/detail/564-5640724_zindi-data-science-competition-platform.png" alt="https://zindi.africa/users/IronMan2483" height="30§ width="40" /></a>
+<a href="https://zindi.africa/users/IronMan2483" target="blank"><img align="center" src="https://www.seekpng.com/png/detail/564-5640724_zindi-data-science-competition-platform.png" alt="https://zindi.africa/users/IronMan2483" height="30" width="40" /></a>
 <a href="https://www.xing.com/profile/Katrin_Mulinski/cv" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/b/b4/Xing_logo.svg" alt="https://www.xing.com/profile/Katrin_Mulinski/cv" height="30§ width="40" /></a>  
 </p>
 
