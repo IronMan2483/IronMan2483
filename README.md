@@ -13,7 +13,7 @@ I am a traveller 🌎🌍🌏 and am crazy about snorkeling with 🐢🐠🐬 - 
 
 - 👨‍💻 All of my projects are available at [https://github.com/IronMan2483/Projects](https://github.com/IronMan2483/Projects)
 
-- 💬 Ask me about **recruiting strategies and Netflix/Disney+**
+- 💬 Ask me about **recruiting strategies and good movies and series on Netflix and Disney+**
 
 - 📄 Know about [my experiences](https://www.linkedin.com/in/katrin-mulinski-81ab5622/)
 
