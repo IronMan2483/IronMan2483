@@ -1,4 +1,4 @@
-👋 Hi, I’m Katrin (❤️ MCU). 
+👋 Hi, I’m Katrin. 
 
 I’m a Data Science student (09-2021 - 12-2021) at neuefische and started with programming in Python in July 2021.
 
@@ -13,7 +13,7 @@ I am a traveller 🌎🌍🌏 and am crazy about snorkeling with 🐢🐠🐬 - 
 
 - 👨‍💻 All of my projects are available at [https://github.com/IronMan2483/Projects](https://github.com/IronMan2483/Projects)
 
-- 💬 Ask me about **recruiting strategies, Marvel and good movies and series on Netflix and Disney+**
+- 💬 Ask me about **recruiting strategies, Marvel ❤️ and good movies and series on Netflix and Disney+**
 
 - 📄 Know about [my experiences](https://www.linkedin.com/in/katrin-mulinski-81ab5622/)
 
