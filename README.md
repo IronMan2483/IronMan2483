@@ -9,7 +9,7 @@ I am a traveller 🌎🌍🌏 and am crazy about snorkeling with 🐢🐠🐬 - 
 
 - 🔭 I’m currently working on [a basics overview](https://github.com/IronMan2483/All_About_Basics)
 
-- 🌱 I’m currently learning **Python, SQL and Tableau**
+- 🌱 I’m currently learning more about **NLP, Time Series and Recommendation Systems**
 
 - 👨‍💻 All of my projects are available at [https://github.com/IronMan2483/Projects](https://github.com/IronMan2483/Projects)
 
