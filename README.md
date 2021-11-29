@@ -11,7 +11,8 @@ I am a traveller 🌎🌍🌏 and am crazy about snorkeling with 🐢🐠🐬 - 
 
 - 🌱 I’m currently learning more about **NLP, Time Series and Recommendation Systems**
 
-- 👨‍💻 All of my projects are available under [Projects](https://github.com/IronMan2483/Projects)
+- 👨‍💻 All of my neue fische projects are available under [Projects](https://github.com/IronMan2483/Projects)
+- Challenges are here: [Streaming - Movies](https://github.com/IronMan2483/streaming_movies)
 
 - 💬 Ask me about **recruiting strategies, Marvel ❤️ and good movies and series on Netflix and Disney+**
 
