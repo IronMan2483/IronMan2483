@@ -12,7 +12,8 @@ I am a traveller 🌎🌍🌏 and am crazy about snorkeling with 🐢🐠🐬 - 
 - 🌱 I’m currently learning more about **NLP, Time Series and Recommendation Systems**
 
 - 👨‍💻 All of my neue fische projects are available under [Projects](https://github.com/IronMan2483/Projects)
-- Created own repos and notebooks based on Kaggle and Zindi Challenges/Datasets are here: [Streaming - Movies](https://github.com/IronMan2483/streaming_movies)
+- <img align="middle" src="https://cdn-icons-png.flaticon.com/512/1087/1087815.png" height="30" width="25"> Find my Capstone project here: [GitHub](link) | [YouTube video final presentation](https://cdn-icons-png.flaticon.com/512/1087/1087815.png)
+- <img align="middle" src="https://icon-library.com/images/movies-icon/movies-icon-6.jpg" height="30" width="30"> Created own repos and notebooks based on Kaggle and Zindi Challenges/Datasets are here: [Streaming - Movies](https://github.com/IronMan2483/streaming_movies)
 
 - 💬 Ask me about **recruiting strategies, Marvel ❤️ and good movies and series on Netflix and Disney+**
 
@@ -23,9 +24,9 @@ I am a traveller 🌎🌍🌏 and am crazy about snorkeling with 🐢🐠🐬 - 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/katrin-mulinski-81ab5622/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/katrin-mulinski-81ab5622/" height="30" width="40" /></a>
-  <a href="https://www.xing.com/profile/Katrin_Mulinski/cv" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/b/b4/Xing_logo.svg" alt="https://www.xing.com/profile/Katrin_Mulinski/cv" height="30" width="40" /></a>
+  <a href="https://www.xing.com/profile/Katrin_Mulinski/cv" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/b/b4/Xing_logo.svg" alt="https://www.xing.com/profile/Katrin_Mulinski/cv" height="40" width="50" /></a>
 <a href="https://kaggle.com/ironman2483" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ironman2483" height="30" width="40" /></a>
-<a href="https://zindi.africa/users/IronMan2483" target="blank"><img align="center" src="https://www.seekpng.com/png/detail/564-5640724_zindi-data-science-competition-platform.png" alt="https://zindi.africa/users/IronMan2483" height="20" width="60" /></a>
+<a href="https://zindi.africa/users/IronMan2483" target="blank"><img align="middle" src="https://assets.zindi.africa/media/00aa4a928f3c44f881834d47fe624d91.png" alt="https://zindi.africa/users/IronMan2483" height="60" width="70" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
