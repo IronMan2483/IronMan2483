@@ -32,6 +32,11 @@ I am a traveller 🌎🌍🌏 and am crazy about snorkeling with 🐢🐠🐬 - 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"><a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
   <a href="https://pandas.pydata.org" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/1200px-Pandas_logo.svg.png" alt="pandas" width="70" height="40"/> </a>  
+  <a href="https://numpy.org/" target="_blank"><img src="https://numpy.org/doc/stable/_static/numpylogo.svg" width="55" height="45"/></a>
+  <a href="https://code.visualstudio.com/" target="_blank"><img src="https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,c_fill,w_720/https://ubuntu.com/wp-content/uploads/c9f4/visualstudio_code-card.png" width="60" height="45"/></a>
+  <a href="https://jupyter.org/" target="_blank"><img src="https://jupyter.org/assets/share.png" width="55" height"55"/></a>
+  <a href="https://cassandra.apache.org/_/index.html" target="_blank"><img src="https://miro.medium.com/max/625/0*x6HXnRHe7uuJbAdQ.jpg" width="40" height="40"/></a>
+  <a href="https://dbeaver.com/" target="_blank"><img src="https://repository-images.githubusercontent.com/44662669/f3f5c080-808b-11ea-9713-2bea65875d95" width="55" height="35"/></a>
  <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
   <a href="https://popsql.com" target="_blank"> <img src="https://mma.prnewswire.com/media/1249498/PopSQL_Logo.jpg" alt="popsql" width="70" height="30"/> </a> 
   <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
