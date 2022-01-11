@@ -29,6 +29,7 @@ I am a traveller 🌎🌍🌏 and am crazy about snorkeling with 🐢🐠🐬 - 
   <a href="https://www.xing.com/profile/Katrin_Mulinski/cv" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/b/b4/Xing_logo.svg" alt="https://www.xing.com/profile/Katrin_Mulinski/cv" height="40" width="50" /></a>
 <a href="https://kaggle.com/ironman2483" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ironman2483" height="30" width="40" /></a>
 <a href="https://zindi.africa/users/IronMan2483" target="blank"><img align="middle" src="https://assets.zindi.africa/media/00aa4a928f3c44f881834d47fe624d91.png" alt="https://zindi.africa/users/IronMan2483" height="60" width="70" /></a>
+<a href="https://www.codewars.com/users/IronMan2483" target="blank"><img align="center" src="https://miro.medium.com/max/880/1*0pLbHKAulWnsx4U2MQyn2w.png" alt="https://www.codewars.com/users/IronMan2483" height="60" width="90" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
