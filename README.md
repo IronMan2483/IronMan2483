@@ -1,6 +1,8 @@
 👋 Hi, I’m Katrin. 
 
-I am happy to complete the Data Science full-time bootcamp (09-2021 - 12-2021) at neuefische and started with programming in Python in July 2021.
+Family, friends and former colleagues describe me as language-savvy - so why not a programming language? I started with programming in Python in July 2021 to be prepared for the Data Science full-time bootcamp (09-2021 - 12-2021) at neuefische which I completed end of 2021.
+
+Data followed me since school, during my studies and even in my professional career. I am used to jump into the deeper end to grow and learn - never stop learning 😉😉😉
 
 Before I started the Data Science bootcamp I studied Geography and Chemistry at HU in Berlin and worked for over 10 years in HR and Executive Search.
 
