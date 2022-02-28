@@ -17,7 +17,7 @@ I am a traveller 🌎🌍🌏 and am crazy about snorkeling with 🐢🐠🐬 - 
 - <img align="middle" src="https://cdn-icons-png.flaticon.com/512/1087/1087815.png" height="30" width="25"> Find my Capstone project from the neue fische bootcamp here: [GitHub](https://github.com/IronMan2483/neuefische_Capstone) | <a href="https://www.youtube.com/watch?v=BiMvUGV7Gto&t=6s" target="blank"><img align="middle" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/YouTube_Logo_2017.svg/2560px-YouTube_Logo_2017.svg.png" alt="https://www.youtube.com/watch?v=BiMvUGV7Gto&t=6s" height="20" width="42" /></a> 
 - <img align="middle" src="https://icon-library.com/images/movies-icon/movies-icon-6.jpg" height="30" width="30"> Created own repos and notebooks based on Kaggle and Zindi Challenges/Datasets are here: [Streaming - Movies](https://github.com/IronMan2483/streaming_movies)
 
-- 💬 Ask me about **recruiting strategies, Marvel ❤️ and good movies and series on Netflix and Disney+**
+- 💬 Ask me about **Talent Acquisition strategies, Marvel ❤️ and good movies and series on Netflix and Disney+**
 
 - 📄 Know about [my experiences](https://www.linkedin.com/in/katrin-mulinski-81ab5622/)
 
