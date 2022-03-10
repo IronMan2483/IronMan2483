@@ -45,6 +45,7 @@ I am a traveller 🌎🌍🌏 and am crazy about snorkeling with 🐢🐠🐬 - 
   <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
 <a href="https://matplotlib.org" target="_blank"> <img src="https://miro.medium.com/max/724/1*aUSZsGFCMPNYCkQygs4aGQ.jpeg" alt="matplotlib" width="60" height="40"/> </a>
 <a href="https://seaborn.pydata.org" target="_blank"> <img src="https://files.ai-pool.com/a/21155149cb560f48f085a21264277c3c.png" alt="seaborn" width="50" height="40"/> </a>  
-<a href="https://plotly.com" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Plotly-logo-01-square.png/1200px-Plotly-logo-01-square.png" alt="plotly" width="80" height="40"/> </a>      
+<a href="https://plotly.com" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Plotly-logo-01-square.png/1200px-Plotly-logo-01-square.png" alt="plotly" width="80" height="40"/> </a>     
+<a href="https://hvplot.holoviz.org" target="_blank"> <img src="https://holoviz.org/assets/hvplot.png" alt="hvplot" width="30" height="60"/> </a>
 
 </p>
