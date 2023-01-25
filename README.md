@@ -9,7 +9,7 @@ Before I started the Data Science bootcamp I studied Geography and Chemistry at 
 I am a traveller 🌎🌍🌏 and am crazy about snorkeling with 🐢🐠🐬 - it is the best to reduce the stress level in 1 second 😉
 
 
-- 🔭 I’m using a dataset from IBM and am currently working on [an HR project in attration and diversity](https://github.com/IronMan2483/HR_Analytics_IBMDataset)
+- 🔭 I’m using a dataset from IBM and am currently working on [an HR project about attration and diversity](https://github.com/IronMan2483/HR_Analytics_IBMDataset)
 
 - 🌱 I’m currently learning more about **NLP and Recommendation Systems**
 
