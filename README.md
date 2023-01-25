@@ -4,7 +4,7 @@ Family, friends and former colleagues describe me as language-savvy - so why not
 
 Data followed me since school, during my studies and even in my professional career. I am used to jump into the deeper end to grow and learn - never stop learning 😉😉😉
 
-Before I started the Data Science bootcamp I studied Geography and Chemistry at HU in Berlin and worked for over 10 years in HR and Executive Search. I am in a role in Recruiting Analytics, dealing with global data and am happy to combine both worlds in my daily work.
+Before I started the Data Science bootcamp I studied Geography and Chemistry at HU in Berlin and worked for over 10 years in HR and Executive Search. I am in a role in Recruiting Analytics now, dealing with global data and am happy to combine both worlds in my daily work.
 
 I am a traveller 🌎🌍🌏 and am crazy about snorkeling with 🐢🐠🐬 - it is the best to reduce the stress level in 1 second 😉
 
