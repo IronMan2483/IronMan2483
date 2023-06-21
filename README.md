@@ -4,14 +4,14 @@ Family, friends and former colleagues describe me as language-savvy - so why not
 
 Data followed me since school, during my studies and even in my professional career. I am used to jump into the deeper end to grow and learn - never stop learning 😉😉😉
 
-Before I started the Data Science bootcamp I studied Geography and Chemistry at HU in Berlin and worked for over 10 years in HR and Executive Search. I am in a role in Recruiting Analytics now, dealing with global data and am happy to combine both worlds in my daily work.
+Before I started the Data Science bootcamp I studied Geography and Chemistry at HU in Berlin and worked for over 10 years in HR and Executive Search. I am combining these 2 worlds in Recruiting Analytics now, dealing with global data and able to give data based recommendations for actions.
 
 I am a traveller 🌎🌍🌏 and am crazy about snorkeling with 🐢🐠🐬 - it is the best to reduce the stress level in 1 second 😉
 
 
 - 🔭 I’m working with different HR datasets: [attrition and diversity](https://github.com/IronMan2483/HR_Analytics_IBMDataset)
 
-- 🌱 I’m currently learning more about **NLP and Recommendation Systems**
+- 🌱 I’m currently learning more about **ChatGPT and Recommendation Systems**
 
 - 👨‍💻 All of my neue fische projects are available under [Projects](https://github.com/IronMan2483/Projects)
 - <img align="middle" src="https://cdn-icons-png.flaticon.com/512/1087/1087815.png" height="30" width="25"> Find my Capstone project from the neue fische bootcamp here: [GitHub](https://github.com/IronMan2483/neuefische_Capstone) | <a href="https://www.youtube.com/watch?v=BiMvUGV7Gto&t=6s" target="blank"><img align="middle" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/YouTube_Logo_2017.svg/2560px-YouTube_Logo_2017.svg.png" alt="https://www.youtube.com/watch?v=BiMvUGV7Gto&t=6s" height="20" width="42" /></a> 
