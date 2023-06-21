@@ -11,7 +11,7 @@ I am a traveller 🌎🌍🌏 and am crazy about snorkeling with 🐢🐠🐬 - 
 
 - 🔭 I’m working with different HR datasets: [attrition and diversity](https://github.com/IronMan2483/HR_Analytics_IBMDataset)
 
-- 🌱 I’m currently learning more about **ChatGPT and Recommendation Systems**
+- 🌱 I’m currently learning more about **ChatGPT, HRM and Recommendation Systems**
 
 - 👨‍💻 All of my neue fische projects are available under [Projects](https://github.com/IronMan2483/Projects)
 - <img align="middle" src="https://cdn-icons-png.flaticon.com/512/1087/1087815.png" height="30" width="25"> Find my Capstone project from the neue fische bootcamp here: [GitHub](https://github.com/IronMan2483/neuefische_Capstone) | <a href="https://www.youtube.com/watch?v=BiMvUGV7Gto&t=6s" target="blank"><img align="middle" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/YouTube_Logo_2017.svg/2560px-YouTube_Logo_2017.svg.png" alt="https://www.youtube.com/watch?v=BiMvUGV7Gto&t=6s" height="20" width="42" /></a> 
